@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">I'm Eniek, a 15 year old trying to program...</p>
+<h2 align="left">Me:</h2>
+
+###
+- 🎉 15 years old
+- 👨‍💻 Developer / programmer
+- 🐧 Linux
+- 👍 C/C++
+- 🎓 Highschool
 
 ###
 
@@ -10,7 +17,7 @@
 
 ###
 
-<p align="left">A Rubik's cube solver. In C++, so that it works with Arduino.</p>
+<p align="left">Not anything specific...</p>
 
 ###
 
