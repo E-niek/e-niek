@@ -2,14 +2,7 @@
 
 ###
 
-<h2 align="left">Me:</h2>
-
-###
-- 🎉 15 years old
-- 👨‍💻 Developer / programmer
-- 🐧 Linux
-- 👍 C/C++
-- 🎓 Highschool
+I'm Eniek, a 15 y/o trying to create some code...
 
 ###
 
@@ -17,7 +10,8 @@
 
 ###
 
-<p align="left">Not anything specific...</p>
+- <p align="left">A simple messenger, written in C++ and Kotlin, mainly to improve my programming skills</p>
+- Ehm?
 
 ###
 
