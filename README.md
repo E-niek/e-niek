@@ -2,7 +2,7 @@
 
 ###
 
-I'm Eniek, a 15 y/o trying to create some code.
+I'm Eniek, a 15 y/o trying to code.
 
 I'm currently learning, and mainly programming in C/C++.
 
