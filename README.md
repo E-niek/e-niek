@@ -1,12 +1,2 @@
-<h1 align="left">Hey 👋</h1>
-
-###
-
-I'm Eniek, a 15 y/o trying to code.
-
-I'm currently learning, and mainly programming in C/C++.
-
-# Contact
-If you really want to reach me: 
-- Send an email to `eniek@karos.dev`
-- Or contact me on Discord: `e_niek`
+<h1 align="center">Hey, I'm Eniek!</h1>
+<h4 align="center">🎂 15 y/o - 🏫 highschool - 💻 programming C/C++</h4>
